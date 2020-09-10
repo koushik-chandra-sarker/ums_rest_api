@@ -1,0 +1,64 @@
+[{
+  "firstName":"koushik",
+  "middleName":"Chandra",
+  "lastName":"Sarker",
+  "birthday":"1998-02-22",
+  "gender":"male",
+  "yearEnrolled":2018,
+  "phone":[
+    {"phone_no":"01622774190"},
+    {"phone_no":"01965476328"}
+  ],
+  "programme":{
+    "code":"CSE"
+  }
+
+},
+{
+  "firstName":"Sifat",
+  "lastName":"ahamed",
+  "Title":"Engineer",
+  "birthday":"1985-05-02",
+  "geder":"male",
+  "joiningDate":"2015-02-25",
+  "officeRoom": "ar1010",
+  "phone":[
+    {"phone_no":"01611111111"},
+    {"phone_no":"01911111111"}
+  ],
+  "school":{
+    "id":3
+  }
+
+},
+
+  {
+    "code": "cse1011",
+    "title": "Programming language c",
+    "programme": {
+      "code": "CSE"
+    }
+  },
+  {
+    "code": "cse1012",
+    "title": "Programming language c++",
+    "programme": {
+      "code": "CSE"
+    }
+  },
+  {
+    "code": "cse1013",
+    "title": "Programming language java",
+    "programme": {
+      "code": "CSE"
+    }
+  },
+  {
+    "code": "cse1014",
+    "title": "Programming language python",
+    "programme": {
+      "code": "CSE"
+    }
+  }
+
+]
